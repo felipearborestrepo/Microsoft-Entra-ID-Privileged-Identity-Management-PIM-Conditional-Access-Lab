@@ -1,6 +1,8 @@
 # 🔐 Microsoft Entra ID Conditional Access Lab  
 ## Enforcing MFA with Privileged Identity Management & Sign-In Log Validation
 
+<img width="1536" height="1024" alt="10548829-43f0-4ead-acd4-4cd822f87741" src="https://github.com/user-attachments/assets/dbfcb52f-708c-43bd-83ff-08b383397df1" />
+
 **Author:** Felipe Restrepo  
 **Category:** Identity & Access Management / Cloud Security  
 **Technologies:** Microsoft Entra ID, Conditional Access, PIM, MFA, Sign-in Logs  
